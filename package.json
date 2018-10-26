@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.4.1",
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "5.0.7",
+    "redux": "4.0.1"
+  }
+}
